@@ -1,0 +1,11 @@
+# training and simulation
+torch
+numpy
+matplotlib
+
+# solver reference
+ortools
+
+# tests only (CartPole check)
+gymnasium
+pytest

@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Benchmark downloads and run outputs
+data/
+checkpoints/
+runs/
+wandb/
+
+# Local build notes
+context-docs/
